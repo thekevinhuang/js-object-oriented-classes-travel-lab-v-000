@@ -24,7 +24,7 @@ class Route {
 
   estimatedTime(peak) {
     blocks = this.blocksTravelled()
-    if peak {
+    if (peak) {
       return blocks/2
     }
     else {
