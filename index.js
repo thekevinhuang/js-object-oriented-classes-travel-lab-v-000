@@ -10,5 +10,11 @@ class Driver {
 }
 
 class Route {
-  
+  blocksTravelled() {
+    
+  }
+
+  estimatedTime() {
+    
+  }
 }
