@@ -22,7 +22,13 @@ class Route {
     return totalBlocks
   }
 
-  estimatedTime() {
-
+  estimatedTime(peak) {
+    blocks = this.blocksTravelled()
+    if peak {
+      
+    }
+    else {
+      
+    }
   }
 }
