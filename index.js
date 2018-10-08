@@ -28,7 +28,7 @@ class Route {
       return Math.ceiling(blocks/2)
     }
     else {
-
+      return Math.ceiling(blocks/3)
     }
   }
 }
